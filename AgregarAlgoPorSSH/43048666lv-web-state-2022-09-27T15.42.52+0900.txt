@@ -1,0 +1,63 @@
+LibreView Version: 3.10.18
+Browser Information:
+{
+  "browser": "Chrome",
+  "browserVersion": "103.0.5060.134",
+  "browserMajorVersion": 103,
+  "supportsCookies": true,
+  "supportsLocalStorage": true,
+  "supportsSessionStorage": true
+}
+User Agent:
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Local Machine Time
+	2022-09-27T15:42:52+09:00
+
+Auth State Info
+	auth.countrySelected: true
+	auth.loggedIn: true
+Nav State Info
+	nav.location: /reports/f4c36e1e-f05c-11ec-a439-0242ac110002
+Patient State Info
+	patient.recentPatient.id: f4c36e1e-f05c-11ec-a439-0242ac110002
+	patient.recentPatient.lvAccount: true
+	patient.recentPatient.anonymous: undefined
+	patient.recentPatient.created: 1655704259
+	patient.events.loading: true
+	patient.glucoseHistory.devices: undefined
+	patient.glucoseHistory.lastTimestamp: undefined
+	patient.glucoseHistory.lastUpload: undefined
+	patient.recentPatient.practices.41d31aa4-0e42-11ed-b437-0242ac110010.id: 41d31aa4-0e42-11ed-b437-0242ac110010
+	patient.recentPatient.practices.41d31aa4-0e42-11ed-b437-0242ac110010.pendingInvite: undefined
+	patient.recentPatient.practices.41d31aa4-0e42-11ed-b437-0242ac110010.created: undefined
+	patient.recentPatient.practices.41d31aa4-0e42-11ed-b437-0242ac110010.invitedBy.id: undefined
+Practice State Info
+	practices.41d31aa4-0e42-11ed-b437-0242ac110010.practiceId: 0956-72-3300
+	practices.ad69f888-0e40-11ed-a6a3-0242ac110004.practiceId: 
+	practices.41d31aa4-0e42-11ed-b437-0242ac110010.id: 41d31aa4-0e42-11ed-b437-0242ac110010
+	practices.ad69f888-0e40-11ed-a6a3-0242ac110004.id: ad69f888-0e40-11ed-a6a3-0242ac110004
+Report State Info
+	reports.disabledDataSources: 
+	reports.primaryDevice.id: da735e75-26ef-11ed-923d-0242ac110012
+	reports.primaryDevice.type: 40066
+	reports.primaryDevice.uploadDate: 1664278912
+	reports.endDate: 1664236800
+	reports.dataSources.70167c7f-f05d-11ec-b29b-0242ac110002.id: 70167c7f-f05d-11ec-b29b-0242ac110002
+	reports.dataSources.7cf68133-17d6-11ed-a645-0242ac110003.id: 7cf68133-17d6-11ed-a645-0242ac110003
+	reports.dataSources.da735e75-26ef-11ed-923d-0242ac110012.id: da735e75-26ef-11ed-923d-0242ac110012
+	reports.dataSources.70167c7f-f05d-11ec-b29b-0242ac110002.type: 40066
+	reports.dataSources.7cf68133-17d6-11ed-a645-0242ac110003.type: 40066
+	reports.dataSources.da735e75-26ef-11ed-923d-0242ac110012.type: 40066
+	reports.dataSources.70167c7f-f05d-11ec-b29b-0242ac110002.uploadDate: 1658404251
+	reports.dataSources.7cf68133-17d6-11ed-a645-0242ac110003.uploadDate: 1664179032
+	reports.dataSources.da735e75-26ef-11ed-923d-0242ac110012.uploadDate: 1664278912
+User State Info
+	user.accountType: pro
+	user.communicationLanguage: ja-JP
+	user.country: JP
+	user.accountType: pro
+	user.uom: 1
+	user.timeFormat: 2
+	user.dateFormat: 3
+	user.id: ad69f888-0e40-11ed-a6a3-0242ac110004
+	user.uiLanguage: ja-JP
