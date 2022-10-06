@@ -1,0 +1,48 @@
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.exe
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.deps.json
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.runtimeconfig.json
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.runtimeconfig.dev.json
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.pdb
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.csproj.AssemblyReference.cache
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.AssemblyInfoInputs.cache
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.AssemblyInfo.cs
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.csproj.CoreCompileInputs.cache
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\refint\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.pdb
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.genruntimeconfig.cache
+C:\Users\jcat_\Desktop\Patron_decorator\Patron_decorator\obj\Debug\net5.0\ref\Patron_decorator.dll
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.exe
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.deps.json
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.runtimeconfig.json
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.runtimeconfig.dev.json
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.dll
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\bin\Debug\net5.0\Patron_decorator.pdb
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.csproj.AssemblyReference.cache
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.AssemblyInfoInputs.cache
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.AssemblyInfo.cs
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.csproj.CoreCompileInputs.cache
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.dll
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\refint\Patron_decorator.dll
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.pdb
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\Patron_decorator.genruntimeconfig.cache
+C:\Users\jcat_\Desktop\IngenieriaSoftware\Patrones de diseño\Patron_decorator\Patron_decorator\obj\Debug\net5.0\ref\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\bin\Debug\net5.0\Patron_decorator.exe
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\bin\Debug\net5.0\Patron_decorator.deps.json
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\bin\Debug\net5.0\Patron_decorator.runtimeconfig.json
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\bin\Debug\net5.0\Patron_decorator.runtimeconfig.dev.json
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\bin\Debug\net5.0\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\bin\Debug\net5.0\Patron_decorator.pdb
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.csproj.AssemblyReference.cache
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.AssemblyInfoInputs.cache
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.AssemblyInfo.cs
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.csproj.CoreCompileInputs.cache
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\refint\Patron_decorator.dll
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.pdb
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\Patron_decorator.genruntimeconfig.cache
+C:\Users\jcat_\Desktop\Arquitectura de Software\Patrones_Diseño\Estructural\Patron_decorator_Herencia\Patron_decorator\obj\Debug\net5.0\ref\Patron_decorator.dll

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jcat_\\Desktop\\Arquitectura de Software\\Patrones_Diseño\\Estructural\\Patron_decorator_Herencia\\Patron_decorator\\Patron_decorator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jcat_\\Desktop\\Arquitectura de Software\\Patrones_Diseño\\Estructural\\Patron_decorator_Herencia\\Patron_decorator\\Patron_decorator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jcat_\\Desktop\\Arquitectura de Software\\Patrones_Diseño\\Estructural\\Patron_decorator_Herencia\\Patron_decorator\\Patron_decorator.csproj",
+        "projectName": "Patron_decorator",
+        "projectPath": "C:\\Users\\jcat_\\Desktop\\Arquitectura de Software\\Patrones_Diseño\\Estructural\\Patron_decorator_Herencia\\Patron_decorator\\Patron_decorator.csproj",
+        "packagesPath": "C:\\Users\\jcat_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jcat_\\Desktop\\Arquitectura de Software\\Patrones_Diseño\\Estructural\\Patron_decorator_Herencia\\Patron_decorator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jcat_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patron_decorator.AgregadoDecorador">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgregadoDecorador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.ComidaRapidaComponente">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComidaRapidaComponente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.BaldeAlitas">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaldeAlitas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.PolloBroaster">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PolloBroaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.PolloSpiedo">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PolloSpiedo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.Postre">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAgAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Postre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.PapasFritas">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>PapasFritas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.Gaseosa">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Gaseosa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_decorator.Arroz">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Arroz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Patron_decorator.TipoGaseosa">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAACAA=</HashCode>
+      <FileName>TipoGaseosa.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Patron_decorator.Tamanio">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAIQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tamanio.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Patron_decorator.Sabor">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Sabor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
