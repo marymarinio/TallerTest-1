@@ -7,5 +7,5 @@ contador=0
 while contador<numero:
     contador=contador+1
     ListaNumeros.append(str(contador))
-    EliminarCorchete="".join(ListaNumeros)
+    EliminarCorchete=" ".join(ListaNumeros)
     print(EliminarCorchete)
