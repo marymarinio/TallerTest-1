@@ -1,3 +1,4 @@
+
 #Ejercicio media piramire acendente
 """
 1
@@ -14,3 +15,4 @@ for cadaFila in range(nroDeFilasPorTeclado, 0, -1):
     
     print("\n")
     print(cadaColumna, end="° "*nroDeFilasPorTeclado)
+
