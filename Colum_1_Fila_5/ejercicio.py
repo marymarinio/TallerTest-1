@@ -1,20 +1,8 @@
-#Edil Zapoata, Cristhian Condori, Mari Mariño
+#Edil Zapata, Cristhian Condori, Mari Mariño
 
 numero=int(input("Ingrese un numero: "))
-lista=[]
-#lista.append(numero)
-cont=1
-while cont !=0:
-     for i in lista:
-        print(lista)
-        cont=i-1
-        print(cont)
-        #intentamos de diferentes formas 
-        
-while numero==0:
-    for i in lista:
-        x=numero-1
-        lista.append(x)
-        print(lista)
-
+for i in range(numero):
+    for x in range(numero):
+        menos=x-1
+        print(menos)
 
