@@ -6,6 +6,8 @@
 1 2
 1
 """
+
+print("Ejercicio2")
 nroDeFilasPorTeclado = int(input("Ingrese un Nro: "))
 
 for cadaFila in range(nroDeFilasPorTeclado):
