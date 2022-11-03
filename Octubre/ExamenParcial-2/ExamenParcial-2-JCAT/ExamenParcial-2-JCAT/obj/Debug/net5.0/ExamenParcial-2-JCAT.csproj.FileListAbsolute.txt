@@ -1,0 +1,16 @@
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\bin\Debug\net5.0\ExamenParcial-2-JCAT.exe
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\bin\Debug\net5.0\ExamenParcial-2-JCAT.deps.json
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\bin\Debug\net5.0\ExamenParcial-2-JCAT.runtimeconfig.json
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\bin\Debug\net5.0\ExamenParcial-2-JCAT.runtimeconfig.dev.json
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\bin\Debug\net5.0\ExamenParcial-2-JCAT.dll
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\bin\Debug\net5.0\ExamenParcial-2-JCAT.pdb
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.csproj.AssemblyReference.cache
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.AssemblyInfoInputs.cache
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.AssemblyInfo.cs
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.csproj.CoreCompileInputs.cache
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.dll
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\refint\ExamenParcial-2-JCAT.dll
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.pdb
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ExamenParcial-2-JCAT.genruntimeconfig.cache
+C:\Users\jcat_\Desktop\ExamenParcial-2-JCAT\ExamenParcial-2-JCAT\obj\Debug\net5.0\ref\ExamenParcial-2-JCAT.dll
