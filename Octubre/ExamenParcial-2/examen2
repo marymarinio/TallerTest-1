@@ -1,0 +1,23 @@
+#MARY wilma mariño 
+placa=input("ingrese placa: ")
+
+print(placa)
+validacion=(placa)
+validar=placa
+
+if validar is placa:
+    placa=validar()
+    print("valido")
+else:
+    print("invalida")
+
+
+
+
+
+
+
+
+
+
+
