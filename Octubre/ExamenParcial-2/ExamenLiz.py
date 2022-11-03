@@ -11,10 +11,12 @@ def validacionPlacas():
         for i in placa:
             placa1.append(i)
         placa=len(placa)
-        if placa1[0]=="A"or placa>8 or placa1[1]=="A" or "B" or "C" or placa>8 or placa1[2]=="A" or "-" or placa1=="." or "@" or "#":
+        if placa1[0]=="A"or placa>8 or placa1[1]=="A" or placa>8 or placa1[2]=="A":
             print("PLACA INVALIDA")
         else:
-            print("PLACA VALIDA")
+            if placa1 != "." or "@" or "#":
+                print("PLACA VALIDA")
+            else:
+                print("Placa invalida")
         input()
-        #
 validacionPlacas()
